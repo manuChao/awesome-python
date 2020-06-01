@@ -18,3 +18,4 @@ Your contributions are always welcome!
 * Remove any trailing whitespace.
 
 Bitte sende eine Email an "lieblings_kollege@firma.com"
+Ja
